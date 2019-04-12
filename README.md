@@ -1,6 +1,6 @@
 ## Table of Contents of JavaScript Projects by Steve Hanlon
 
-**Title**: *Brian Fart*
+**Title**: *Brain Fart*
 
 **Summary**: Memory Match with variations on the game and sound effects. jQuery and JavaScript 6.
 
