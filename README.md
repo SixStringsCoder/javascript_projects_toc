@@ -64,27 +64,27 @@
 
 ---------------------------------
 
-**Title**: *MadLib*
+**Title**: *It All Makes Sense on Planet Shishkabob - The Mad-Lib-Maker App*
 
 **Summary**: Web app of a MadLib using JavaScript 6 and Bootstrap 4.3.
 
-[View README](MAKE README)
+[View README](https://github.com/SixStringsCoder/madlibs)
 
-[View at CodePen](https://codepen.io/SixStringsCoder/pen/2c90c648a384e21556572d984087a244)
+[View at CodePen](https://codepen.io/SixStringsCoder/pen/2c90c648a384e21556572d984087a244?editors=1010)
 
-![Sample UI](Needs One)
+![Sample UI](https://github.com/SixStringsCoder/madlibs/blob/master/screenshots/tablet_answers.png)
 
 ---------------------------------
 
-**Title**: *You Don't Say*
+**Title**: *You Don't Say! - Famous quotes by Earthlings...*
 
 **Summary**: Web app of a MadLib using JavaScript 6 and Bootstrap 4.3.
 
-[View README](MAKE README)
+[View README](https://github.com/SixStringsCoder/freeCodeCampProjects/tree/master/Quote%20RotatorDec2017)
 
 [View at CodePen](https://codepen.io/SixStringsCoder/pen/pprvRr)
 
-![Sample UI](Needs One)
+![Sample UI](https://github.com/SixStringsCoder/freeCodeCampProjects/blob/master/Quote%20RotatorDec2017/images/screenshot.jpg)
 
 ---------------------------------
 
@@ -96,5 +96,18 @@
 
 
 ![Sample UI](https://github.com/SixStringsCoder/padde_ball_game/blob/master/static_site/img/simple_ui.png)
+
+---------------------------------
+
+**Title**: *Whack an Autocrat*
+
+**Summary**: Based on [MDN tutorial](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript) using JavaScript's <code>canvas</code>.
+
+[View README](MAKE README)
+
+[View at CodePen](https://codepen.io/SixStringsCoder/pen/RBWboK)
+
+
+![Sample UI](Needs One)
 
 ---------------------------------
